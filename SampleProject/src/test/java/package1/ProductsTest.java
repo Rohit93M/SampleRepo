@@ -8,5 +8,11 @@ public class ProductsTest {
 	public void createProductsTest() {
 		System.out.println("execute createProductsTest");
 
+	}	@Test
+	public void modifyProductsTest() {
+		System.out.println("execute modifyProductsTest");
+
 	}
+	
+	
 }
