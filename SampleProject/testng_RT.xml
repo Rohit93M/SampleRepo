@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="pac1.ContactTest"/>
-      <class name="pac2.OrgTest"/>
+      <class name="package1.ProductsTest"/>
+      <class name="package2.OppTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
